@@ -24,7 +24,7 @@ Not much these days. You can follow me on the [Fediverse: @gurneyalex@fosstodon.
 
 *  **Making Odoo fast --- Analyzing Odoo's speed** (OCA Days 2025) [Slides](https://docs.google.com/presentation/d/1HpEGgmxxSUvAhF5r1XWO-1OqiQWPPJF4jPZ-XRg-e4k/edit?usp=sharing) and  [Recording](https://www.youtube.com/watch?v=2UQFH7Ob-QI&pp=ygUWYWxleGFuZHJlIGZheW9sbGUgb2Rvbw%3D%3D)
 *  **Debugging with a scientific mindset** (Odoo Experience 2023): [Talk page](https://www.odoo.com/fr_FR/event/odoo-experience-2023-3735/track/debugging-with-a-scientific-mindset-5668) 
-*  **Database locks in Odoo** (Odoo Experience 2023): [Talk page & recording](https://www.odoo.com/event?search=database%20locks)
+*  **Database locks in Odoo** (Odoo Experience 2023): [Talk page & recording](https://www.odoo.com/fr_FR/event/odoo-experience-2023-3735/track/database-locks-in-odoo-5667)
 * **Patterns and antipatterns in Odoo module development** (Odoo Experience 2022): [Recording](https://www.odoo.com/fr_FR/event/odoo-experience-2022-2190/track/patterns-and-antipatterns-in-odoo-module-development-4728) 
 *  **How to set up a runbot** (OCA Days 2020): [Video](https://www.youtube.com/watch?v=BWeJmek0EB8&t=3s&pp=ugMICgJmchABGAHKBRZhbGV4YW5kcmUgZmF5b2xsZSBvZG9v) Warning this talk is outdated
 *  **Develop a connector on any apps using Odoo-Connector** [Slides](https://www.slideshare.net/openobject/develop-a-connector-on-any-apps-using-odoo-connector) This is actually a talk I gave on behalf of a colleague, @guewen
